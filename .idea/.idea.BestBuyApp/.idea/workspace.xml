@@ -9,13 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62503eba-6942-4f8e-8aec-2f12d1514f99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BestBuyApp/Models/Category.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BestBuyApp/Views/Product/InsertProduct.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BestBuyApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BestBuyApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BestBuyApp/Controllers/ProductController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuyApp/Controllers/ProductController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BestBuyApp/Data/IProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuyApp/Data/IProductRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BestBuyApp/Data/ProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuyApp/Data/ProductRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuyApp/Models/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuyApp/Models/Product.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +96,7 @@
       <updated>1765988724111</updated>
       <workItem from="1765988725274" duration="2964000" />
       <workItem from="1767804320543" duration="828000" />
-      <workItem from="1768234507278" duration="1820000" />
+      <workItem from="1768234507278" duration="2499000" />
     </task>
     <servers />
   </component>

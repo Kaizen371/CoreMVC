@@ -50,4 +50,11 @@ public class ProductRepository : IProductRepository
         product.Categories = categoryList;
         return product;
     }
+
+    public void DeleteProduct(Product product)
+    {
+        _connection.Execute("DELETE FROM REVIEWS WHERE ProductID = @id", new { id = product.ProductID });
+        _connection.Execute("DELETE FROM SALES WHERE ProductID = @id", new { id = product.ProductID });
+        _connection.Execute("DELETE FROM PRODUCTS WHERE ProductID = @id", new { id = product.ProductID });
+    }
 }
